@@ -1,0 +1,15 @@
+/Users/laura/POO_TP1/EXO_1/bin/Debug/net6.0/EXO_1
+/Users/laura/POO_TP1/EXO_1/bin/Debug/net6.0/EXO_1.deps.json
+/Users/laura/POO_TP1/EXO_1/bin/Debug/net6.0/EXO_1.runtimeconfig.json
+/Users/laura/POO_TP1/EXO_1/bin/Debug/net6.0/EXO_1.dll
+/Users/laura/POO_TP1/EXO_1/bin/Debug/net6.0/EXO_1.pdb
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.csproj.AssemblyReference.cache
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.AssemblyInfoInputs.cache
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.AssemblyInfo.cs
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.csproj.CoreCompileInputs.cache
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.dll
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/refint/EXO_1.dll
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.pdb
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/EXO_1.genruntimeconfig.cache
+/Users/laura/POO_TP1/EXO_1/obj/Debug/net6.0/ref/EXO_1.dll
